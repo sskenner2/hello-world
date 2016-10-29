@@ -1,5 +1,4 @@
 # hello-world
 
-Hola .. 
-
-this is a bit about myself ..
+namastay .. 
+it is what it is .. 
